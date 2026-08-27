@@ -11,6 +11,7 @@ public class Calculator{
       Calculator calc=new Calculator();
       System.out.println("The Sum is:" + (calc.add(5,10)));
       System.out.println("The substraction is :"+(calc.subs(10,5)));
+      System.out.println("hello addition substraction successfully working");
   }
 
 }
